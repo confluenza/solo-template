@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: "Confluenza Solo",
+    title: 'Confluenza Solo',
     editBaseUrl: 'https://github.com/confluenza/solo-template/blob/master'
   },
+  pathPrefix: '/solo-template',
   plugins: [
     {
       resolve: '@confluenza/gatsby-theme-confluenza',
@@ -14,4 +15,4 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-root-import'
   ]
-};
+}
