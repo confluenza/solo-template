@@ -3,7 +3,6 @@ module.exports = {
     title: 'Confluenza Solo',
     editBaseUrl: 'https://github.com/confluenza/solo-template/blob/master'
   },
-  pathPrefix: '/solo-template',
   plugins: [
     {
       resolve: '@confluenza/gatsby-theme-confluenza',
