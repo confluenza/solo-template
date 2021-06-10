@@ -78,7 +78,7 @@ and then, in the `gh-pages.yaml` file, we would need to use the `build:prefix-pa
 "build:prefix-paths": "gatsby build --prefix-paths"
 ```
 
-To learn more about challenges when using a custom domain with a project repository, we recommend [How to set up MULTIPLE GitHub Pages websites with custom domains](https://deanattali.com/blog/multiple-github-pages-domains/).
+To learn more about challenges when using a custom domain with a project repository, we recommend [How to set up MULTIPLE GitHub Pages websites with custom domains](https://deanattali.com/blog/multiple-github-pages-domains/). See also what GitHub Pages documentation says about [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain).
 
 <style scoped>
 .scrollable {
