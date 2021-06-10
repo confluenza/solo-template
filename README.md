@@ -27,3 +27,5 @@ content: ../../README.md
 ```
 
 I am from top level `README.md`.
+
+This site is deployed at https://solo.confluenza.online.
