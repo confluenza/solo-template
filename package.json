@@ -24,7 +24,9 @@
     "build": "gatsby build",
     "build:prefix-paths": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "lint": "yarn eslint",
+    "lint:fix": "yarn eslint --fix"
   },
   "dependencies": {
     "@confluenza/gatsby-theme-confluenza": "^1.0.29",
