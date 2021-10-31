@@ -2,6 +2,7 @@
 path: /developers/deploying-to-github-pages
 title: Deploying to Github Pages
 tag: developer
+sortIndex: 2
 ---
 
 Confluenza is easy to deploy. As an example, in folder `.github/workflows/gh-pages.yaml` we show how to deploy Confluenza (solo) to
@@ -62,7 +63,8 @@ module.exports = {
     {
       resolve: '@confluenza/gatsby-theme-confluenza',
       options: {
-        mdx: true
+        mdx: true,
+        ignore: []
       }
     },
     'gatsby-plugin-emotion',
