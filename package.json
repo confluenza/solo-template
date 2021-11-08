@@ -30,8 +30,8 @@
   },
   "dependencies": {
     "@confluenza/gatsby-theme-confluenza": "^1.0.29",
-    "gatsby": "^4.0.2",
-    "gatsby-plugin-catch-links": "^4.0.0",
+    "gatsby": "^4.1.1",
+    "gatsby-plugin-catch-links": "^4.1.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
@@ -40,10 +40,8 @@
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/eslint-parser": "^7.16.0",
-    "@typescript-eslint/eslint-plugin": "^5.2.0",
-    "@typescript-eslint/parser": "^5.2.0",
     "babel-eslint": "^10.1.0",
-    "eslint": "^7.12.1",
+    "eslint": "^8.2.0",
     "eslint-config-react-app": "^6.0.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-flowtype": "^8.0.3",
@@ -53,7 +51,7 @@
     "eslint-plugin-promise": "^5.1.1",
     "eslint-plugin-react": "^7.26.1",
     "eslint-plugin-react-hooks": "^4.2.0",
-    "gatsby-cli": "^4.0.0",
+    "gatsby-cli": "^4.1.0",
     "gatsby-plugin-root-import": "^2.0.8"
   }
 }
